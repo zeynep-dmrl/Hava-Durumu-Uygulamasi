@@ -42,7 +42,7 @@ const displayResult = (result) => {
     humidity.innerText = `Nem : ${result.main.humidity}%`
 
     let wind = document.querySelector('.wind')
-    wind.innerText = `Ruzgar : ${result.wind.speed}m/s N`
+    wind.innerText = `Rüzgar : ${result.wind.speed}m/s N`
 
 }
 
