@@ -4,7 +4,7 @@ HTML, CSS ve JavaScript kullanarak hava durumunu tahmin eden bir uygulama. Arama
 nem oranı ve rüzgar şiddeti gibi güncel bilgilere erişebilirsiniz.
 
 **NOT:
-Güncel hava durumu bilgileri [Open Weather](https://openweathermap.org/) sitesi üzerinden alınmıştır. Kullanıcı kaydı yaparsanız apilerin tamamına erişim sağlayabilirsiniz.
+Güncel hava durumu bilgileri [Open Weather](https://openweathermap.org) sitesi üzerinden alınmıştır. Kullanıcı kaydı yaparsanız apilerin tamamına erişim sağlayabilirsiniz.
 [API](https://openweathermap.org/api) dökümanından api isteklerinin nasıl yapılacaği ve gerekli parametrelerin kullanımını öğrenebilirsiniz. **
 
 ### Uygulama
