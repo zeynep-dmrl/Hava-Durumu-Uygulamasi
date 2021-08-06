@@ -3,6 +3,8 @@
 HTML, CSS ve JavaScript kullanarak hava durumunu tahmin eden bir uygulama. Arama kutucuğuna yazılan şehre ait sıcaklık, gün içerisindeki minimum ve maximum sıcaklık,
 nem oranı ve rüzgar şiddeti gibi güncel bilgilere erişebilirsiniz.
 
+Denemek için [tıklayınız.](https://zeynep-dmrl.github.io/Hava-Durumu-Uygulamasi/)
+
 
 ### Uygulama
 ![app](https://github.com/zeynep-dmrl/Hava-Durumu-Uygulamasi/blob/main/image/ss-img-2.PNG)
