@@ -14,3 +14,8 @@ Denemek için [tıklayınız.](https://zeynep-dmrl.github.io/Hava-Durumu-Uygulam
 Güncel hava durumu bilgileri [Open Weather](https://openweathermap.org) sitesi üzerinden alınmıştır. Kullanıcı kaydı yaparsanız apilerin tamamına erişim sağlayabilirsiniz.
 [API](https://openweathermap.org/api) dökümanından api isteklerinin nasıl yapılacaği ve gerekli parametrelerin kullanımını öğrenebilirsiniz.
 
+### Teknolojiler
+- React.js
+- Tailwind.js
+- Unicons
+
