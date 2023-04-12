@@ -3,7 +3,7 @@
 React.js kullanarak hava durumunu tahmin eden bir uygulama. Arama kutucuğuna yazılan şehre ait sıcaklık, gün içerisindeki minimum ve maximum sıcaklık,
 nem oranı ve rüzgar şiddeti gibi güncel bilgilere, saatlik ve günlük hava durumu bilgisine erişebilirsiniz.
 
-Denemek için [tıklayınız.](https://zeynep-dmrl.github.io/Hava-Durumu-Uygulamasi/)
+Denemek için [tıklayınız.](https://hava-durumu-uygulamasi.vercel.app/)
 
 
 ### Uygulama
